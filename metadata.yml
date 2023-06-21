@@ -1,0 +1,14 @@
+---
+:id: 182370669
+:submitters:
+- :name: Rohit Katakam
+  :email: rohitkatakam2026@u.northwestern.edu
+- :name: Joseph Jaehyun Shim
+  :email: josephshim2026@u.northwestern.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-06-02 23:38:23.136641000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-06-02 16:38:23.136641000 Z
+:status: processed
+:score: 100.0
